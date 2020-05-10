@@ -19,6 +19,3 @@ $ls
 $cd Anjing
 
 $python2 Anjing.py
-
-
-Download Lisensinya Disini : https://autoratio.com/ognC
